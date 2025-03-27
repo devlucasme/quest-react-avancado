@@ -26,4 +26,17 @@ O Pokédex é um aplicativo que permite explorar o universo dos Pokémon de form
 1 - Clone o Repositório.
 
 ```sh
-git clone
+git clone https://github.com/devlucasme/quest-react-avancado.git
+```
+
+2 - Instale as Dependências
+
+```sh
+npm install
+```
+
+3 - Rode o projeto
+
+```sh
+npm run dev
+```
